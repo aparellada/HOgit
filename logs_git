@@ -1,0 +1,75 @@
+commit 16abd50d2f68193edfb44bb0fcb1846e9a2d072f
+Author: APA <apa@apa.com>
+Date:   Thu Mar 2 15:03:42 2017 -0300
+
+    Cambiado ambos archivos, README.md y archnuevo.md
+
+commit 6b9e508b20c05081083f85513d06cbedca8cd3a0
+Author: APA <apa@apa.com>
+Date:   Thu Mar 2 15:01:02 2017 -0300
+
+    Archivo nuevo
+
+commit 2c24e3c7cb7205b6a1e5b23d01e38cad874f9feb
+Author: APA <apa@apa.com>
+Date:   Thu Mar 2 15:00:26 2017 -0300
+
+    Sacada linea del comienzo antes añadida
+
+commit fcde3c9ed7e56f2b81599d42dbe1d5ee3f626bb4
+Author: APA <apa@apa.com>
+Date:   Thu Mar 2 14:59:15 2017 -0300
+
+    Agregada la linea nueva al comienzo
+
+commit 373ee43e84eddb3d63d1cb9b9e60b94911bda79c
+Author: Pablo Alcain <pabloalcain@users.noreply.github.com>
+Date:   Tue Mar 8 15:18:38 2016 -0300
+
+    Cambiado protocolo por defecto a https
+
+commit ed74bb6320dbdebb61d57904c7d0a495903a6425
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 17:26:12 2015 -0300
+
+    Agregados comandos
+
+commit 5339e096a0b45d8eb03014c8993f7015e9d31cf3
+Merge: ab6622e 5ffe580
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:07:05 2015 -0300
+
+    Merge branch 'charlas'
+
+commit ab6622e0a769968e2725c1d3020d393a88500276
+Merge: 0896d0e c0e2aa2
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:06:59 2015 -0300
+
+    Merge branch 'ejercicios'
+
+commit c0e2aa23c53ae7f5598721342fe40cf3ae3f2caa
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:04:17 2015 -0300
+
+    Agregamos un nuevo archivo
+    
+    Esta vez vemos el ejemplo de un comentario largo, por si los caracteres	del commit no alcanzan, porque tenemos muchas cosas para decir y queremos que el mundo nos oiga y no nos censuren más!
+
+commit 5ffe5807ff4176664af9ec63bf23a2d7198267cf
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:03:11 2015 -0300
+
+    Más cosas de git!
+
+commit 0896d0e6f606a7ad4997e53a2d26e78f121ee656
+Author: Pablo Alcain <pabloalcain@gmail.com>
+Date:   Tue Nov 3 10:01:21 2015 -0300
+
+    Info de qué hacer
+
+commit de70e76fd2d22c54991dd15a4c4d9aff06ad61cb
+Author: Pablo Alcain <pabloalcain@users.noreply.github.com>
+Date:   Tue Nov 3 09:52:43 2015 -0300
+
+    Initial commit
